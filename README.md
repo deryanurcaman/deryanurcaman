@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Derya Nur Çaman</h1>
-<h3 align="center">A full stack developer from Istanbul, Turkey</h3>
+<h3 align="center">Computer Engineer from Berlin, Germany</h3>
 
 - 🔭 I’m currently working on **web development**
 
 - 📫 How to reach me camanderya@gmail.com
 
 ## 
-I am a recently graduated full stack developer who is experienced on various subjects including frontend and backend development. My vision is to improve my working experience and knowledge to the next levels with the given opportunities. My main motto is being a learner and diligent person who is not afraid of challenges.
+I am a computer engineer who is experienced on various areas, especially in web development. My vision is to improve my working experience and knowledge to the next levels with the given opportunities. My main motto is being a learner and diligent person who is not afraid of challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
